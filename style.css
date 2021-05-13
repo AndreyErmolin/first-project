@@ -4,3 +4,7 @@
 .page {
     background-color: chartreuse;
 }
+.footer {
+    height: 20vh;
+    background-color: black;
+}
