@@ -1,0 +1,10 @@
+.table__heading {
+  inline-size: 1,15;
+  font-size: 24px;
+  font-weight: bold;
+  min-height: 0;
+  max-width: 250px;
+  margin: 0;
+  margin-bottom: 20px;
+  top: 0;
+}

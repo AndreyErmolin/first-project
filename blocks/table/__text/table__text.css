@@ -1,0 +1,12 @@
+.table__text {
+  min-width: 240px;
+  max-width: 240px;
+  min-height: 0;
+  top: 0;
+  left: 0;
+  inline-size: 23px;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+  display: inline;
+}

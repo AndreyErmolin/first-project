@@ -1,0 +1,10 @@
+.cards__item {
+  width: 240px;
+  min-height: 200px;
+  display: inline;
+  flex-direction: column;
+  position: relative;
+  margin: 0;
+  top: 0;
+  left: 0;
+}

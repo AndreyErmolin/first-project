@@ -1,0 +1,8 @@
+.description {
+  width: 80%;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  display: flex;
+  margin: auto;
+}

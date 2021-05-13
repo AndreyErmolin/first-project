@@ -1,0 +1,7 @@
+.kaufman {
+  min-height: 100vh;
+  background-color: #1f1f1f;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
